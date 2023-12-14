@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_pstar.mk
+    $(LOCAL_DIR)/twrp_pstar.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_pstar-user \
-    omni_pstar-userdebug \
-    omni_pstar-eng
+    twrp_pstar-user \
+    twrp_pstar-userdebug \
+    twrp_pstar-eng
